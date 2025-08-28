@@ -18,7 +18,7 @@ Awarded to the team with the most interesting or impressive combination of user 
 
 Awarded to the team who best demonstrated the process of user-centered design, learning from and adapting to users' needs.
 
-**Plantify**, by Anette Brecko, Aditi Sharma, and one more student
+**Plantify**, by Anette Brecko, Aditi Sharma, and Mikaela Castillo
 
 ## "Ship it!" — most polished
 
