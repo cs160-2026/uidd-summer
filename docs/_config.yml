@@ -17,8 +17,8 @@ title: CS 160 Summer 2026
 tagline: User Interface Design and Development
 description: Course site for CS 160 Summer 2026
 author: Ananya Gubbi Mohanbabu
-baseurl: "/uidd-summer" # the subpath of your site, e.g. /blog
-url: "https://cs160-2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "https://cs160-summer-2026.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
