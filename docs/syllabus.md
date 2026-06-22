@@ -43,6 +43,7 @@ This is an eight-week course. You should plan to be physically present and engag
 ## Staff
 
 Instructors: Selaine Rodriguez, Mina Huh
+
 Teaching assistants: Ananya, Vivian, Arhaan
 
 Office hours: see [calendar]({{ '/meeting-times' | relative_url }})
