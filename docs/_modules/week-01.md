@@ -6,6 +6,7 @@ title: Week 1 – Introduction to Design
 
 June 22nd
 : **Lecture**{: .label .label-lecture} Lecture 1: Introduction
+  : [Slides](https://docs.google.com/presentation/d/1Yw_Lky5dm45_lhiiGYvpyjuIaOp1d874zfjniZDl-Ik/edit?slide=id.p#slide=id.p)
 : **Studio**{: .label .label-discussion} Studio 1: Welcome & Ice Breakers
 
 June 23rd
