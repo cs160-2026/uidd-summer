@@ -1,29 +1,24 @@
 ---
-title: Week 7
+title: Week 7 – Applications (Creativity, Robotics, Industry vs. Academia)
 ---
 
 <!-- prettier-ignore-start -->
 
+August 3rd
+: **Lecture**{: .label .label-lecture} Lecture 25: Creativity
+: **Studio**{: .label .label-discussion} Studio 13: Group Work
+
 August 4th
-: **Lecture**{: .label .label-lecture} How Bodies Matter
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92171057)
-: **Reading (optional)**{: .label .label-reading-opt} [How Bodies Matter](https://hci.stanford.edu/publications/2006/HowBodiesMatter-DIS2006.pdf)
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping
+: **Lecture**{: .label .label-lecture} Lecture 26: Building Interfaces in Industry
+: **Studio**{: .label .label-discussion} Studio 13: Group Work
 
 August 5th
-: **Lecture**{: .label .label-lecture} AR/VR
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92171268)
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping
+: **Lecture**{: .label .label-lecture} Lecture 27: Building Interfaces in Academia
+: **Studio**{: .label .label-discussion} Studio 14: Group Work
 
-August 7th
-: **Lecture**{: .label .label-lecture} State management in Web applications
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92171058)
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 2 Due)
-
-August 7th
-: **Lecture**{: .label .label-lecture} Ethics
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92171059)
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 2 Due)
-: **Midterm**{: .label} Midterm 3 ([self-scheduled](https://us.prairietest.com/))
+August 6th
+: **Lecture**{: .label .label-lecture} Lecture 28: Robotic Interfaces / Embodied AI
+: **Studio**{: .label .label-discussion} Studio 14: Group Work
+: **Project Milestone Due**{: .label .label-proj} Project Milestone 5: User Evaluation
 
 <!-- prettier-ignore-end -->

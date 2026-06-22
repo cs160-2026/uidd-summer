@@ -1,32 +1,29 @@
 ---
-title: Week 2
+title: Week 2 – Introduction to Web Programming, Learnability, and Heuristics
 ---
 
 <!-- prettier-ignore-start -->
 
+June 29th
+: **Lecture**{: .label .label-lecture} Lecture 5: Web Applications, HTML, CSS
+  : Why web apps (universality), HTML, CSS, resources
+: **Studio**{: .label .label-discussion} Studio 3: HTML, CSS
+
 June 30th
-: **Lecture**{: .label .label-lecture} Team project brainstorming
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files?preview=91939925)
-: **Discussion**{: .label .label-discussion} CSS, Selectors
+: **Lecture**{: .label .label-lecture} Lecture 6: Learnability I
+: **Studio**{: .label .label-discussion} Studio 3: HTML, CSS
 
 July 1st
-: **Lecture**{: .label .label-lecture} Contextual Inquiry
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91945176)
-: **Reading (required)**{: .label .label-reading-req} [Principles of Contextual Inquiry (Contextual design ch. 3)](https://bcourses.berkeley.edu/courses/1545463/files/folder/readings?preview=91925395)
-: **Discussion**{: .label .label-discussion} CSS, Selectors
+: **Lecture**{: .label .label-lecture} Lecture 7: Learnability II
+: **Studio**{: .label .label-discussion} Studio 4: Learnability Dos and Don'ts
 
 July 2nd
-: **Lecture**{: .label .label-lecture} Web UI programming, JavaScript
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91950585)
-
-: **Discussion**{: .label .label-discussion} Project: Group Brainstorm
+: **Lecture**{: .label .label-lecture} Lecture 8: Heuristics & Design Patterns
+: **Studio**{: .label .label-discussion} Studio 4: Learnability Dos and Don'ts
+: **PA Released**{: .label .label-proj} PA #2-1: HTML, CSS
+: **Project Milestone Due**{: .label .label-proj} Project Milestone 0: Submit team names
 
 July 3rd
-: **Lecture**{: .label .label-lecture} Input Technologies and Techniques; Modeling
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91957235)
-<!-- : **Reading (optional)**{: .label .label-reading-opt} [Direct Manipulation Interfaces](https://www.lri.fr/~mbl/ENS/FONDIHM/2013/papers/Hutchins-HCI-85.pdf) -->
-: **Reading (optional)**{: .label .label-reading-opt} [Input Technologies and Techniques](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/Input-Technologies-and-Techniques-HCI-Handbook-3rd-Edition.pdf)
-: **Reading (optional)**{: .label .label-reading-opt} [The Human Information-Processor](https://bcourses.berkeley.edu/courses/1545463/files/folder/readings?preview=91969839)
-: **Discussion**{: .label .label-discussion} Project: Group Brainstorm
+: **PA Due**{: .label .label-proj} PA #1: Lo-fi Prototyping
 
 <!-- prettier-ignore-end -->

@@ -1,29 +1,28 @@
 ---
-title: Week 5
+title: Week 5 – Ethics and Applications (Play, AI, Agents)
 ---
 
 <!-- prettier-ignore-start -->
 
+July 20th
+: **Lecture**{: .label .label-lecture} Lecture 17: Ethics
+: **Studio**{: .label .label-discussion} Studio 9: Midterm Review
+
 July 21st
-: **Lecture**{: .label .label-lecture} Information Visualization, Visual design
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92060577)
-: **Discussion**{: .label .label-discussion} Intro to Low-fi prototype, Team project work
+: **Lecture**{: .label .label-lecture} Lecture 18: Designing for Fun / Play
+: **Studio**{: .label .label-discussion} Studio 9: Midterm Review
 
 July 22nd
-: **Lecture**{: .label .label-lecture} Artificial Intelligence and Machine Learning in HCI
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92072912)
-: **Discussion**{: .label .label-discussion} Intro to Low-fi prototype, Team project work
+: **Lecture**{: .label .label-lecture} Lecture 19: Midterm (during class)
+: **Midterm**{: .label} Midterm (handwritten cheatsheet allowed)
+: **Studio**{: .label .label-discussion} Studio 10: Project Work
 
 July 23rd
-: **Lecture**{: .label .label-lecture} Large Language Models in User Interfaces
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92072905)
-: **Discussion**{: .label .label-discussion} Team project work: low-fi prototype
-: **Midterm**{: .label} Midterm 2 ([self-scheduled](https://us.prairietest.com/), across two days)
+: **Lecture**{: .label .label-lecture} Lecture 20: Wearable AI
+: **Studio**{: .label .label-discussion} Studio 10: Project Work
+: **Project Milestone Due**{: .label .label-proj} Project Milestone 3: High-fi (~75%)
 
 July 24th
-: **Lecture**{: .label .label-lecture} Integrating Large Language Models
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=92072904)
-: **Discussion**{: .label .label-discussion} Team project work: low-fi prototype
-: **Midterm**{: .label} Midterm 2 ([self-scheduled](https://us.prairietest.com/), across two days)
+: **PA Due**{: .label .label-proj} PA #3: DB & Server
 
 <!-- prettier-ignore-end -->

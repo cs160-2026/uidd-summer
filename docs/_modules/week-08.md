@@ -1,27 +1,19 @@
 ---
-title: Week 8
+title: Week 8 – Final Project Demos
 ---
 
 <!-- prettier-ignore-start -->
 
+August 10th
+: **Lecture**{: .label .label-lecture} Lecture 29: Final Project Demos
+
 August 11th
-: **Lecture**{: .label .label-lecture} HCI Research
-  : Slides
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
+: **Lecture**{: .label .label-lecture} Lecture 29: Final Project Demos
 
 August 12th
-: **Lecture**{: .label .label-lecture} .
-  : .
-: **Discussion**{: .label .label-discussion} Hi-fidelity prototyping (Checkin 3 Due)
+: **Lecture**{: .label .label-lecture} Lecture 29: Final Project Demos
 
 August 13th
-: **Lecture**{: .label .label-lecture} Demo session!!
-  : .
-: **Discussion**{: .label .label-discussion} **no discussion section**
-
-August 14th
-: **Lecture**{: .label .label-lecture} Wrap-up
-  : .
-: **Discussion**{: .label .label-discussion} **no discussion section**
+: **Lecture**{: .label .label-lecture} Lecture 29: Final Project Demos
 
 <!-- prettier-ignore-end -->

@@ -1,29 +1,28 @@
 ---
-title: Week 1
+title: Week 1 – Introduction to Design
 ---
 
 <!-- prettier-ignore-start -->
 
+June 22nd
+: **Lecture**{: .label .label-lecture} Lecture 1: Introduction
+: **Studio**{: .label .label-discussion} Studio 1: Welcome & Ice Breakers
+
 June 23rd
-: **Lecture**{: .label .label-lecture} Lecture 0: Introduction
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files?preview=91916203)
+: **Lecture**{: .label .label-lecture} Lecture 2: Design Cycle
+: **Studio**{: .label .label-discussion} Studio 1: Welcome & Ice Breakers
 
 June 24th
-: **Lecture**{: .label .label-lecture} The Design Cycle
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files?preview=91916326)
-: **Reading (optional)**{: .label .label-reading-opt} [The Design of Everyday Things, chapter 6](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
+: **Lecture**{: .label .label-lecture} Lecture 3: Needfinding + Ideation
+  : Deciding target users; team project ideas
+: **Studio**{: .label .label-discussion} Studio 2: Team Finding & Project Expectations
+  : Explain project milestones; Crazy 8's (design ideas)
 
 June 25th
-: **Lecture**{: .label .label-lecture} Design Methods, Sketching, Brainstorming
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files?preview=91925149)
-: **Reading (required)**{: .label .label-reading-req} [The Perfect Brainstorm](https://bcourses.berkeley.edu/courses/1545463/files/folder/readings?preview=91916994)
-: **Reading (optional)**{: .label .label-reading-opt} [Viégas & Wattenberg, Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)
-: **Discussion**{: .label .label-discussion} Introductions; Team project and brainstorming
-
-June 26th
-: **Lecture**{: .label .label-lecture} Web applications, HTML, CSS
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91949408)
-: **Discussion**{: .label .label-discussion} Introductions; Team project and brainstorming
-
+: **Lecture**{: .label .label-lecture} Lecture 4: Design Methods: Sketching & Prototyping
+  : Larger issues: creators, accessibility, learning, collaboration, AI; storyboarding
+: **Studio**{: .label .label-discussion} Studio 2: Team Finding & Project Expectations
+  : Explain project milestones; Crazy 8's (design ideas)
+: **PA Released**{: .label .label-proj} PA #1: Lo-fi Prototyping
 
 <!-- prettier-ignore-end -->

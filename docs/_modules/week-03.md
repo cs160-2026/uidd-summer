@@ -1,33 +1,30 @@
 ---
-title: Week 3
+title: Week 3 – JS and User Studies
 ---
 
 <!-- prettier-ignore-start -->
 
+July 6th
+: **Lecture**{: .label .label-lecture} Lecture 9: Web Applications, JS
+: **Studio**{: .label .label-discussion} Studio 5: JS
+
 July 7th
-: **Lecture**{: .label .label-lecture} Affordances, Signifiers
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91981360)
-: **Discussion**{: .label .label-discussion} Figma
-: **Reading (required)**{: .label .label-reading-req} [The Design of Everyday Things, Chapter 1](https://dl.icdst.org/pdfs/files4/4bb8d08a9b309df7d86e62ec4056ceef.pdf)
+: **Lecture**{: .label .label-lecture} Lecture 10: User Studies: Designing and Conducting
+  : Pilot studies; interview guides; safe/fair study; recruitment; AB testing
+: **Studio**{: .label .label-discussion} Studio 5: JS
 
 July 8th
-: **Lecture**{: .label .label-lecture} Conceptual Models, Design Principles, The Action Cycle
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91998285)
-: **Discussion**{: .label .label-discussion} Figma
+: **Lecture**{: .label .label-lecture} Lecture 11: User Studies: Analysis + Presentation
+  : Thematic coding; quantitative analysis
+: **Studio**{: .label .label-discussion} Studio 6: User Study Continued
 
 July 9th
-: **Lecture**{: .label .label-lecture} Metaphors, Modes, Web UI programming
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91999448)
-: **Discussion**{: .label .label-discussion} Project: Contextual Inquiry
-: **Midterm**{: .label} Midterm 1 ([self-scheduled](https://us.prairietest.com/), across two days)
+: **Lecture**{: .label .label-lecture} Lecture 12: Team Introductions and Initial Thoughts
+: **Studio**{: .label .label-discussion} Studio 6: User Study Continued
+: **PA Released**{: .label .label-proj} PA #2-2: JS
+: **Project Milestone Due**{: .label .label-proj} Project Milestone 1: Needfinding
 
 July 10th
-: **Lecture**{: .label .label-lecture} React state, Prototyping
-  : [Slides](https://bcourses.berkeley.edu/courses/1545463/files/folder/lectures?preview=91999531)
-: **Discussion**{: .label .label-discussion} Project: Contextual Inquiry
-: **Midterm**{: .label} Midterm 1 ([self-scheduled](https://us.prairietest.com/), across two days)
-
-July 13th
-: **Programming Exercises Due**{: .label .label-proj} [Week 3: 20 points overall](https://bcourses.berkeley.edu/courses/1545463/assignments/8924658)
+: **PA Due**{: .label .label-proj} PA #2-1: HTML, CSS
 
 <!-- prettier-ignore-end -->
