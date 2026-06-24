@@ -16,10 +16,12 @@ June 24th
 : **Lecture**{: .label .label-lecture} Lecture 3: Needfinding + Ideation
   : [Slides](https://docs.google.com/presentation/d/17SrfvfHhi8JKkCaj-v5gu8PJh1eNg9DBzjGzXv1gO5g/edit?usp=sharing)
 : **Studio**{: .label .label-discussion} Studio 1: Welcome, Team Finding, & Project Expectations
+  : [Slides](https://docs.google.com/presentation/d/1IhnJ4X2TreplfijI4hNMBQR2Tf3r8qN5Aoja-G1t8co/edit?usp=sharing)
 
 June 25th
 : **Lecture**{: .label .label-lecture} Lecture 4: Design Methods: Sketching & Prototyping
 : **Studio**{: .label .label-discussion} Studio 1: Welcome, Team Finding, & Project Expectations
+  : [Slides](https://docs.google.com/presentation/d/1IhnJ4X2TreplfijI4hNMBQR2Tf3r8qN5Aoja-G1t8co/edit?usp=sharing)
 : **PA Released**{: .label .label-proj} PA #1: Lo-fi Prototyping
 
 <!-- prettier-ignore-end -->
