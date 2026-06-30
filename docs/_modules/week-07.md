@@ -10,7 +10,7 @@ August 3rd
 
 August 4th
 : **Lecture**{: .label .label-lecture} Lecture 26: Building Interfaces in Industry
-: **Studio**{: .label .label-discussion} Studio 13: Group Work
+: **Studio**{: .label .label-discussion} Studio 12: Group Work
 
 August 5th
 : **Lecture**{: .label .label-lecture} Lecture 27: Building Interfaces in Academia
@@ -18,7 +18,7 @@ August 5th
 
 August 6th
 : **Lecture**{: .label .label-lecture} Lecture 28: Robotic Interfaces / Embodied AI
-: **Studio**{: .label .label-discussion} Studio 14: Group Work
+: **Studio**{: .label .label-discussion} Studio 13: Group Work
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 5: User Evaluation
 
 <!-- prettier-ignore-end -->

@@ -10,7 +10,7 @@ July 13th
 
 July 14th
 : **Lecture**{: .label .label-lecture} Lecture 14: Social Computing
-: **Studio**{: .label .label-discussion} Studio 7: DB
+: **Studio**{: .label .label-discussion} Studio 6: DB
 
 July 15th
 : **Lecture**{: .label .label-lecture} Lecture 15: Interfaces for Learning
@@ -18,7 +18,7 @@ July 15th
 
 July 16th
 : **Lecture**{: .label .label-lecture} Lecture 16: Accessibility
-: **Studio**{: .label .label-discussion} Studio 8: Social Computing and Learning Applications
+: **Studio**{: .label .label-discussion} Studio 7: Social Computing and Learning Applications
 : **PA Released**{: .label .label-proj} PA #3: DB & Server
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 2: Low-fi
 

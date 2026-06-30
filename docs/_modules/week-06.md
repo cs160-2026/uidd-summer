@@ -10,7 +10,7 @@ July 27th
 
 July 28th
 : **Lecture**{: .label .label-lecture} Lecture 22: Tangible UI
-: **Studio**{: .label .label-discussion} Studio 11: Team Critique on High-Fi
+: **Studio**{: .label .label-discussion} Studio 10: Team Critique on High-Fi
 
 July 29th
 : **Lecture**{: .label .label-lecture} Lecture 23: AI for Interfaces, Interfaces for AI
@@ -18,7 +18,7 @@ July 29th
 
 July 30th
 : **Lecture**{: .label .label-lecture} Lecture 24: Agents
-: **Studio**{: .label .label-discussion} Studio 12: User Evaluation Plan Share Out
+: **Studio**{: .label .label-discussion} Studio 11: User Evaluation Plan Share Out
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 4: Iteration (~100%)
 
 <!-- prettier-ignore-end -->

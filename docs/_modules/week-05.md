@@ -10,7 +10,7 @@ July 20th
 
 July 21st
 : **Lecture**{: .label .label-lecture} Lecture 18: Designing for Fun / Play
-: **Studio**{: .label .label-discussion} Studio 9: Midterm Review
+: **Studio**{: .label .label-discussion} Studio 8: Midterm Review
 
 July 22nd
 : **Lecture**{: .label .label-lecture} Lecture 19: Midterm (during class)
@@ -19,7 +19,7 @@ July 22nd
 
 July 23rd
 : **Lecture**{: .label .label-lecture} Lecture 20: Wearable AI
-: **Studio**{: .label .label-discussion} Studio 10: Project Work
+: **Studio**{: .label .label-discussion} Studio 9: Project Work
 : **Project Milestone Due**{: .label .label-proj} Project Milestone 3: High-fi (~75%)
 
 July 24th
